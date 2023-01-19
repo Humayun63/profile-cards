@@ -7,3 +7,7 @@
 .author{
     margin-top:-80px ;
 }
+.author:hover{
+    border-color: #007BFF!important;
+    transition: 0.3s ease-in-out;
+}
